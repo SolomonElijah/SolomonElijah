@@ -4,12 +4,12 @@
 
 I build scalable, high-performance web and mobile applications for startups, businesses, and fast-growing brands.
 
-- 🔭 Currently building modern software products
-- 📱 Mobile App Developer (React Native & Expo & Dart/Flutter)
-- 🌐 Full-Stack Web Developer
-- ⚡ Passionate about scalable systems, clean UI, and great user experience
-- 🚀 Focused on building products people actually use
-- 💼 Open to freelance, startup, and collaboration opportunities
+-  Currently building modern software products
+-  Mobile App Developer (React Native & Expo & Dart/Flutter)
+-  Full-Stack Web Developer
+-  Passionate about scalable systems, clean UI, and great user experience
+-  Focused on building products people actually use
+-  Open to freelance, startup, and collaboration opportunities
 
 
 ##  Tech Stack
@@ -44,6 +44,6 @@ I build scalable, high-performance web and mobile applications for startups, bus
 
 
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I love building products from idea to production and turning complex problems into simple user experiences.
