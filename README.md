@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Elijah
 
-<!--
-**SolomonElijah/SolomonElijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web & Mobile App Developer
 
-Here are some ideas to get you started:
+I build scalable, high-performance web and mobile applications for startups, businesses, and fast-growing brands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building modern software products
+- 📱 Mobile App Developer (React Native & Expo & Dart/Flutter)
+- 🌐 Full-Stack Web Developer
+- ⚡ Passionate about scalable systems, clean UI, and great user experience
+- 🚀 Focused on building products people actually use
+- 💼 Open to freelance, startup, and collaboration opportunities
+
+
+##  Tech Stack
+
+### Frontend
+- React
+- Next.js
+- React Native
+- Flutter
+- Expo
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- REST APIs
+
+### Database
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- Vercel
+- Linux
+- Postman
+
+
+
+## ⚡ Fun Fact
+
+I love building products from idea to production and turning complex problems into simple user experiences.
